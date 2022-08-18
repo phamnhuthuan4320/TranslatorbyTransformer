@@ -1,1 +1,1 @@
-This is a console aplication with feature for translator make by transformer
+This is a console aplication with feature is translator make by transformer
